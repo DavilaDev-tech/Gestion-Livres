@@ -1,4 +1,4 @@
-# Système de Gestion de Bibliothèque - Émeraude
+# Système de Gestion d'emprunts de livres
 
 Une application web moderne et robuste permettant de gérer les flux d'emprunts, les stocks de livres et les membres d'une bibliothèque.
 
